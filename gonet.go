@@ -6,7 +6,7 @@ import (
 	"github.com/cakturk/go-netstat/netstat"
 )
 func main() {
- 
+ //it is the main important
 fmt.Printf("Proto %16s %20s %14s %24s\n", "Local Adress", "Foregin Adress","State", "Pid/Program")
 	tcp:=true
 	 
